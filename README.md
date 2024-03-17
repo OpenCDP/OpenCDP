@@ -1,1 +1,1 @@
-![BlockCDP Arch](image\BlockCDP-Arch-01.jpg)  
+![BlockCDP Arch](image/BlockCDP-Arch-01.jpg)  
